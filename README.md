@@ -40,7 +40,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/ecommerce-app.git
+   git clone https://github.com/SouaOui/eCommerceApp.git
    ```
 
 2. Navigate to the project directory:
